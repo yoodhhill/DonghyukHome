@@ -1,0 +1,2 @@
+module DyooPageHelper
+end

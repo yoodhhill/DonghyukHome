@@ -1,4 +1,10 @@
 FirstApp::Application.routes.draw do
+  get "dyoo_page/home"
+
+  get "dyoo_page/contact"
+
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
